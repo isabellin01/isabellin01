@@ -1,10 +1,10 @@
 ## Olá! Eu sou a Isabel Lin 👋
 
 ### Sobre mim
-Desenvolvedora com foco em backend e dados, em transição de carreira
-🎓 Formada em Marketing pela EACH-USP
-📚 Cursando Análise e Desenvolvimento de Sistemas na SPTech
-💼 Atualmente, inicio um estágio em Dados e IA na Indra/Minsait
+Desenvolvedora com foco em backend e dados, em transição de carreira  
+🎓 Formada em Marketing pela EACH-USP  
+📚 Cursando Análise e Desenvolvimento de Sistemas na SPTech  
+💼 Atualmente, inicio um estágio em Dados e IA na Indra/Minsait  
 
 ### Tecnologias
 <img 
