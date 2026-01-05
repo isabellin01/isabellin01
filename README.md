@@ -42,5 +42,5 @@ Backend and data-focused developer, currently transitioning careers
 <br/>
 
 ### Contacts
-🔗 **LinkedIn:** [https://www.linkedin.com/in/SEU-USUARIO](https://www.linkedin.com/in/isabellin01/)  
-📸 **Instagram:** [https://www.instagram.com/SEU-USUARIO](https://www.instagram.com/maoyolin/)
+🔗 **LinkedIn:** https://www.linkedin.com/in/isabellin01/  
+📸 **Instagram:** https://www.instagram.com/maoyolin/
